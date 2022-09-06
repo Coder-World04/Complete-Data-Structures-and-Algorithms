@@ -22,7 +22,7 @@ Tips and Techniques to solve Array Questions Fast.
 
 2. Hashing
 
-What and Why Hashing(in two sentences)?
+What and Why Hashing(in two sentences) ?
 
 Important Patterns and Techniques in Hashing Questions
 
