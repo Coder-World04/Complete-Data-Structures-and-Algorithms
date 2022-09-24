@@ -147,7 +147,7 @@ Tips and Techniques to solve Trie Questions Fast.
 
 11.Heap/Priority Queue
 
-What and Why Heap/Priority Queue(in two sentences)?
+What and Why Heap/Priority Queue(in two sentences) ?
 
 Important Patterns and Techniques in Heap/Priority Queue Questions
 
