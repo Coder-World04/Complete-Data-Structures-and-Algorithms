@@ -71,7 +71,7 @@ Most Important Questions with Solutions
 
 Complexity Analysis
 
-Tips and Techniques to solve Stack Questions Fast .
+Tips and Techniques to solve Stack Questions Fast.
 
 -------------
 
