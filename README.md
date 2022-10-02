@@ -6,6 +6,8 @@ This repository contains everything you need to become proficient in Data Struct
 
 Start here : [Day 1 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
 
+[Day 2 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-2-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-68bf016bb615?sk=a6d770b5472a96c224c4f9257d839e16)
+
 1.Arrays
 
 What and Why Array (in two sentences)?
