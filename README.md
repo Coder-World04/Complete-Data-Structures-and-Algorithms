@@ -65,7 +65,7 @@ Tips and Techniques to solve Strings Questions Fast .
 
 5.Stack
 
-What and Why Stack(in two sentences)?
+What and Why Stack(in two sentences) ?
 
 Important Patterns and Techniques in Stack Questions
 
