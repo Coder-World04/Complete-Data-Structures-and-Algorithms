@@ -45,7 +45,7 @@ Only Most Important Questions with Solutions
 
 Complexity Analysis
 
-Tips and Techniques to solve Sliding Window Questions Fast .
+Tips and Techniques to solve Sliding Window Questions Fast.
 
 -------------
 
