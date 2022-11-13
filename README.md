@@ -20,7 +20,7 @@ Complexity Analysis
 
 Tips and Techniques to solve Array Questions Fast .
 
--------------
+--------------
 
 2. Hashing
 
