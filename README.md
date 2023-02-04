@@ -138,19 +138,15 @@ Start here : [Day 1 of 30 days of Data Structures and Algorithms and System Desi
 
 [Divide and Conquer Technique](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
 
-[What and Why Divide and Conquer technique(in 2–3 sentences)?](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2[
-](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2))
+[What and Why Divide and Conquer technique(in 2–3 sentences)?](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
 
-[How does Divide and Conquer technique work?]([
-](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2))
+[How does Divide and Conquer technique work?](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
 
 [Important Patterns and Techniques in Divide and Conquer technique Questions](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
 
-[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2[
-](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2))
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
 
-[Complexity Analysis]([
-](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2))
+[Complexity Analysis](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
 
 [Tips and Techniques to solve Divide and Conquer Questions Fast.](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
 
@@ -220,11 +216,9 @@ Tips and Techniques to solve Trie Questions Fast.
 
 [What and Why Heap/Priority Queue(in two sentences) ?](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3)
 
-[Important Patterns and Techniques in Heap/Priority Queue Questions](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3[
-](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3))
+[Important Patterns and Techniques in Heap/Priority Queue Questions](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3))
 
-[Most Important Questions with Solutions]([
-](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3))
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3)
 
 [Complexity Analysis](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3)
 
@@ -254,11 +248,9 @@ Tips and Techniques to solve Trie Questions Fast.
 
 [Most Important Questions with Solutions](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc)
 
-[Complexity Analysis](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc[
-](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc))
+[Complexity Analysis](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc)
 
-[Tips and Techniques to solve Graphs Questions Fast.]([
-](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc))
+[Tips and Techniques to solve Graphs Questions Fast.](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc)
 
 -------------
 
