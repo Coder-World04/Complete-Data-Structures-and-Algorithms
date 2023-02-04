@@ -39,114 +39,166 @@ Start here : [Day 1 of 30 days of Data Structures and Algorithms and System Desi
 
 --------------
 
-2. Hashing
+[2. Hashing](https://medium.com/coders-mojo/day-17-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-hash-ddfe72657211?sk=a457b598d5f5f3d2572029693c587198)
 
-What and Why Hashing(in two sentences)?
+[What and Why Hashing(in two sentences)?](https://medium.com/coders-mojo/day-17-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-hash-ddfe72657211?sk=a457b598d5f5f3d2572029693c587198)
 
-Important Patterns and Techniques in Hashing Questions
+[Important Patterns and Techniques in Hashing Questions](https://medium.com/coders-mojo/day-17-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-hash-ddfe72657211?sk=a457b598d5f5f3d2572029693c587198)
 
-Only Most Important Questions with Solutions
+[Only Most Important Questions with Solutions](https://medium.com/coders-mojo/day-17-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-hash-ddfe72657211?sk=a457b598d5f5f3d2572029693c587198)
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-17-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-hash-ddfe72657211?sk=a457b598d5f5f3d2572029693c587198)
 
-Tips and Techniques to solve Hashing Questions Fast.
-
--------------
-
-
-3.Sliding Window
-
-Important Patterns and Techniques in Sliding Window Questions
-
-Only Most Important Questions with Solutions
-
-Complexity Analysis
-
-Tips and Techniques to solve Sliding Window Questions Fast.
+[Tips and Techniques to solve Hashing Questions Fast.](https://medium.com/coders-mojo/day-17-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-hash-ddfe72657211?sk=a457b598d5f5f3d2572029693c587198)
 
 -------------
 
-4.Strings
 
-What and Why Strings(in two sentences)?
+[3.Sliding Window](https://medium.com/coders-mojo/day-3-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-af62dc4aec9c?sk=704354dbc4c0048ac0a0b5c97f1eef0e)
 
-Important Patterns and Techniques in String Questions
+[Important Patterns and Techniques in Sliding Window Questions](https://medium.com/coders-mojo/day-3-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-af62dc4aec9c?sk=704354dbc4c0048ac0a0b5c97f1eef0e)
 
-Only Most Important Questions with Solutions
+[Only Most Important Questions with Solutions](https://medium.com/coders-mojo/day-3-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-af62dc4aec9c?sk=704354dbc4c0048ac0a0b5c97f1eef0e)
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-3-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-af62dc4aec9c?sk=704354dbc4c0048ac0a0b5c97f1eef0e)
 
-Tips and Techniques to solve Strings Questions Fast .
-
--------------
-
-5.Stack
-
-What and Why Stack(in two sentences) ?
-
-Important Patterns and Techniques in Stack Questions
-
-Most Important Questions with Solutions
-
-Complexity Analysis
-
-Tips and Techniques to solve Stack Questions Fast .
+[Tips and Techniques to solve Sliding Window Questions Fast.](https://medium.com/coders-mojo/day-3-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-af62dc4aec9c?sk=704354dbc4c0048ac0a0b5c97f1eef0e)
 
 -------------
 
-6.Queues
+[4.Strings](https://medium.com/coders-mojo/day-12-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-strings-fa27c45a5fd6?sk=f6b3fc7bf5c770d2d04107667be1c446)
 
-What and Why Queue(in two sentences) ?
+[What and Why Strings(in two sentences)?](https://medium.com/coders-mojo/day-12-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-strings-fa27c45a5fd6?sk=f6b3fc7bf5c770d2d04107667be1c446)
 
-Important Patterns and Techniques in Queue Questions
+[Important Patterns and Techniques in String Questions](https://medium.com/coders-mojo/day-12-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-strings-fa27c45a5fd6?sk=f6b3fc7bf5c770d2d04107667be1c446)
 
-Most Important Questions with Solutions
+[Only Most Important Questions with Solutions](https://medium.com/coders-mojo/day-12-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-strings-fa27c45a5fd6?sk=f6b3fc7bf5c770d2d04107667be1c446)
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-12-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-strings-fa27c45a5fd6?sk=f6b3fc7bf5c770d2d04107667be1c446)
 
-Tips and Techniques to solve Queue Questions Fast .
-
--------------
-
-7.Binary Search
-
-What and Why Binary Search(in two sentences)?
-
-Important Patterns and Techniques in Binary Search Questions
-
-Most Important Questions with Solutions
-
-Complexity Analysis
-
-Tips and Techniques to solve Binary Search Questions Fast.
+[Tips and Techniques to solve Strings Questions Fast .](https://medium.com/coders-mojo/day-12-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-strings-fa27c45a5fd6?sk=f6b3fc7bf5c770d2d04107667be1c446)
 
 -------------
 
-8.Linked List
+[5.Stack](https://medium.com/coders-mojo/day-14-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-stack-b26d68eb3477?sk=ed28cc4e45134ad3562a3594ddea4017)
 
-What and Why Linked List (in two sentences)?
+[What and Why Stack(in two sentences) ?](https://medium.com/coders-mojo/day-14-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-stack-b26d68eb3477?sk=ed28cc4e45134ad3562a3594ddea4017)
 
-Important Patterns and Techniques in Linked List Questions
+[Important Patterns and Techniques in Stack Questions](https://medium.com/coders-mojo/day-14-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-stack-b26d68eb3477?sk=ed28cc4e45134ad3562a3594ddea4017)
 
-Most Important Questions with Solutions
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-14-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-stack-b26d68eb3477?sk=ed28cc4e45134ad3562a3594ddea4017)
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-14-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-stack-b26d68eb3477?sk=ed28cc4e45134ad3562a3594ddea4017)
 
-Tips and Techniques to solve Linked List Questions Fast.
+[Tips and Techniques to solve Stack Questions Fast .](https://medium.com/coders-mojo/day-14-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-stack-b26d68eb3477?sk=ed28cc4e45134ad3562a3594ddea4017)
 
 -------------
 
-9.Trees
+[6.Queues](https://medium.com/coders-mojo/day-15-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-queue-db38d5477cd5?sk=44ae516bf0f1da510ee9618b7f135995)
 
-What and Why Trees(in two sentences)?
+[What and Why Queue(in two sentences) ?](https://medium.com/coders-mojo/day-15-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-queue-db38d5477cd5?sk=44ae516bf0f1da510ee9618b7f135995)
 
-Important Patterns and Techniques in Tree Questions
+[Important Patterns and Techniques in Queue Questions](https://medium.com/coders-mojo/day-15-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-queue-db38d5477cd5?sk=44ae516bf0f1da510ee9618b7f135995)
 
-Most Important Questions with Solutions
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-15-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-queue-db38d5477cd5?sk=44ae516bf0f1da510ee9618b7f135995)
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-15-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-queue-db38d5477cd5?sk=44ae516bf0f1da510ee9618b7f135995)
 
-Tips and Techniques to solve Tree Questions Fast.
+[Tips and Techniques to solve Queue Questions Fast .](https://medium.com/coders-mojo/day-15-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-queue-db38d5477cd5?sk=44ae516bf0f1da510ee9618b7f135995)
+
+-------------
+
+[7.Binary Search](https://medium.com/coders-mojo/day-16-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-binary-search-8799ce6321cb?sk=e4ee1b96f1cd2f9531b5e739539d8b7e)
+
+[What and Why Binary Search(in two sentences)?](https://medium.com/coders-mojo/day-16-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-binary-search-8799ce6321cb?sk=e4ee1b96f1cd2f9531b5e739539d8b7e)
+
+[Important Patterns and Techniques in Binary Search Questions](https://medium.com/coders-mojo/day-16-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-binary-search-8799ce6321cb?sk=e4ee1b96f1cd2f9531b5e739539d8b7e)
+
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-16-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-binary-search-8799ce6321cb?sk=e4ee1b96f1cd2f9531b5e739539d8b7e)
+
+[Complexity Analysis](https://medium.com/coders-mojo/day-16-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-binary-search-8799ce6321cb?sk=e4ee1b96f1cd2f9531b5e739539d8b7e)
+
+[Tips and Techniques to solve Binary Search Questions Fast.](https://medium.com/coders-mojo/day-16-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-binary-search-8799ce6321cb?sk=e4ee1b96f1cd2f9531b5e739539d8b7e)
+
+-------------
+
+[8.Linked List](https://medium.com/coders-mojo/day-13-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-linked-list-6536f0041153?sk=952899c3d2e2bd5b4dbd6c8ad7debf05)
+
+[What and Why Linked List (in two sentences)?](https://medium.com/coders-mojo/day-13-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-linked-list-6536f0041153?sk=952899c3d2e2bd5b4dbd6c8ad7debf05)
+
+[Important Patterns and Techniques in Linked List Questions](https://medium.com/coders-mojo/day-13-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-linked-list-6536f0041153?sk=952899c3d2e2bd5b4dbd6c8ad7debf05)
+
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-13-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-linked-list-6536f0041153?sk=952899c3d2e2bd5b4dbd6c8ad7debf05)
+
+[Complexity Analysis](https://medium.com/coders-mojo/day-13-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-linked-list-6536f0041153?sk=952899c3d2e2bd5b4dbd6c8ad7debf05)
+
+[Tips and Techniques to solve Linked List Questions Fast.](https://medium.com/coders-mojo/day-13-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-linked-list-6536f0041153?sk=952899c3d2e2bd5b4dbd6c8ad7debf05)
+
+-------------
+
+[Divide and Conquer Technique](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
+
+[What and Why Divide and Conquer technique(in 2–3 sentences)?](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2[
+](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2))
+
+[How does Divide and Conquer technique work?]([
+](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2))
+
+[Important Patterns and Techniques in Divide and Conquer technique Questions](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
+
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2[
+](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2))
+
+[Complexity Analysis]([
+](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2))
+
+[Tips and Techniques to solve Divide and Conquer Questions Fast.](https://medium.com/coders-mojo/day-10-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-divide-and-a00f7375507?sk=3d52023dade6f37c396b58e039ca29f2)
+
+-------------
+
+[Recursion](https://medium.com/coders-mojo/day-9-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-recursion-ed6f7f41742?sk=bf98ce6abdb3e3f2fa71213c6ed8caa9)
+
+[What and Why Recursion(in 2–3 sentences)?](https://medium.com/coders-mojo/day-9-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-recursion-ed6f7f41742?sk=bf98ce6abdb3e3f2fa71213c6ed8caa9)
+
+[How does Recursion work?](https://medium.com/coders-mojo/day-9-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-recursion-ed6f7f41742?sk=bf98ce6abdb3e3f2fa71213c6ed8caa9)
+
+[Important Patterns and Techniques in Recursion Questions](https://medium.com/coders-mojo/day-9-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-recursion-ed6f7f41742?sk=bf98ce6abdb3e3f2fa71213c6ed8caa9)
+
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-9-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-recursion-ed6f7f41742?sk=bf98ce6abdb3e3f2fa71213c6ed8caa9)
+
+[Complexity Analysis](https://medium.com/coders-mojo/day-9-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-recursion-ed6f7f41742?sk=bf98ce6abdb3e3f2fa71213c6ed8caa9)
+
+[Tips and Techniques to solve Recursion Questions Fast.](https://medium.com/coders-mojo/day-9-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-recursion-ed6f7f41742?sk=bf98ce6abdb3e3f2fa71213c6ed8caa9)
+
+-------------
+
+[Two pointer Technique](https://medium.com/coders-mojo/day-8-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-two-pointer-7c513302dfa9?sk=cc32bc3ce22139845c64d195553859e0)
+
+[What and Why Two pointer technique(in 2–3 sentences)?](https://medium.com/coders-mojo/day-8-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-two-pointer-7c513302dfa9?sk=cc32bc3ce22139845c64d195553859e0)
+
+[How does Two pointer technique work?](https://medium.com/coders-mojo/day-8-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-two-pointer-7c513302dfa9?sk=cc32bc3ce22139845c64d195553859e0)
+
+[Important Patterns and Techniques in Two pointer technique Questions](https://medium.com/coders-mojo/day-8-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-two-pointer-7c513302dfa9?sk=cc32bc3ce22139845c64d195553859e0)
+
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-8-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-two-pointer-7c513302dfa9?sk=cc32bc3ce22139845c64d195553859e0)
+
+[Complexity Analysis](https://medium.com/coders-mojo/day-8-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-two-pointer-7c513302dfa9?sk=cc32bc3ce22139845c64d195553859e0)
+
+[Tips and Techniques to solve Two pointer technique Questions Fast.](https://medium.com/coders-mojo/day-8-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-two-pointer-7c513302dfa9?sk=cc32bc3ce22139845c64d195553859e0)
+
+-------------
+
+[9.Trees](https://medium.com/coders-mojo/day-18-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-trees-831da5a95d8d?sk=a672df93a37f64df9e6b8b24de402bbe)
+
+[What and Why Trees(in two sentences)?](https://medium.com/coders-mojo/day-18-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-trees-831da5a95d8d?sk=a672df93a37f64df9e6b8b24de402bbe)
+
+[Important Patterns and Techniques in Tree Questions](https://medium.com/coders-mojo/day-18-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-trees-831da5a95d8d?sk=a672df93a37f64df9e6b8b24de402bbe)
+
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-18-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-trees-831da5a95d8d?sk=a672df93a37f64df9e6b8b24de402bbe)
+
+[Complexity Analysis](https://medium.com/coders-mojo/day-18-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-trees-831da5a95d8d?sk=a672df93a37f64df9e6b8b24de402bbe)
+
+[Tips and Techniques to solve Tree Questions Fast.](https://medium.com/coders-mojo/day-18-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-trees-831da5a95d8d?sk=a672df93a37f64df9e6b8b24de402bbe)
 
 -------------
 
@@ -164,45 +216,49 @@ Tips and Techniques to solve Trie Questions Fast.
 
 -------------
 
-11.Heap/Priority Queue
+[11.Heap/Priority Queue](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3)
 
-What and Why Heap/Priority Queue(in two sentences) ?
+[What and Why Heap/Priority Queue(in two sentences) ?](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3)
 
-Important Patterns and Techniques in Heap/Priority Queue Questions
+[Important Patterns and Techniques in Heap/Priority Queue Questions](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3[
+](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3))
 
-Most Important Questions with Solutions
+[Most Important Questions with Solutions]([
+](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3))
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3)
 
-Tips and Techniques to solve heap/priority Queue Questions Fast.
-
--------------
-
-12.Backtracking
-
-What and Why Backtracking(in 2–3 sentences)?
-
-Important Patterns and Techniques in Backtracking Questions
-
-Most Important Questions with Solutions
-
-Complexity Analysis
-
-Tips and Techniques to solve Backtracking Questions Fast .
+[Tips and Techniques to solve heap/priority Queue Questions Fast.](https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3)
 
 -------------
 
-13.Graphs
+[12.Backtracking](https://medium.com/coders-mojo/day-5-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-backtracking-f7de93dbe72d?sk=08c8ce11404387e46fdd73013aec267f)
 
-What and Why Graphs(in 2–3 sentences)?
+[What and Why Backtracking(in 2–3 sentences)?](https://medium.com/coders-mojo/day-5-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-backtracking-f7de93dbe72d?sk=08c8ce11404387e46fdd73013aec267f)
 
-Important Patterns and Techniques in Graph Questions
+[Important Patterns and Techniques in Backtracking Questions](https://medium.com/coders-mojo/day-5-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-backtracking-f7de93dbe72d?sk=08c8ce11404387e46fdd73013aec267f)
 
-Most Important Questions with Solutions
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-5-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-backtracking-f7de93dbe72d?sk=08c8ce11404387e46fdd73013aec267f)
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-5-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-backtracking-f7de93dbe72d?sk=08c8ce11404387e46fdd73013aec267f)
 
-Tips and Techniques to solve Graphs Questions Fast.
+[Tips and Techniques to solve Backtracking Questions Fast .](https://medium.com/coders-mojo/day-5-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-backtracking-f7de93dbe72d?sk=08c8ce11404387e46fdd73013aec267f)
+
+-------------
+
+[13.Graphs](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc)
+
+[What and Why Graphs(in 2–3 sentences)?](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc)
+
+[Important Patterns and Techniques in Graph Questions](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc)
+
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc)
+
+[Complexity Analysis](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc[
+](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc))
+
+[Tips and Techniques to solve Graphs Questions Fast.]([
+](https://medium.com/coders-mojo/day-19-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-graphs-d105c2a78caf?sk=beb1ab5546c296eb5a1089a08da321dc))
 
 -------------
 
@@ -218,55 +274,55 @@ Tips and Techniques to solve Advanced Graph Questions Fast.
 
 -------------
 
-15. 1- D Dynamic Programming
+[15. 1- D Dynamic Programming](https://medium.com/coders-mojo/day-7-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-1-d-dynamic-2560f585499?sk=0756b6bd798238d9a96fe3d161690350)
 
-What and Why Dynamic Programming(in 2–3 sentences)?
+[What and Why Dynamic Programming(in 2–3 sentences)?](https://medium.com/coders-mojo/day-7-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-1-d-dynamic-2560f585499?sk=0756b6bd798238d9a96fe3d161690350)
 
-Important Patterns and Techniques in 1-D Dynamic Programming Questions
+[Important Patterns and Techniques in 1-D Dynamic Programming Questions](https://medium.com/coders-mojo/day-7-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-1-d-dynamic-2560f585499?sk=0756b6bd798238d9a96fe3d161690350)
 
-Most Important Questions with Solutions
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-7-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-1-d-dynamic-2560f585499?sk=0756b6bd798238d9a96fe3d161690350)
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-7-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-1-d-dynamic-2560f585499?sk=0756b6bd798238d9a96fe3d161690350)
 
-Tips and Techniques to solve 1-D Dynamic Programming Questions Fast.
-
--------------
-
-16. 2- D Dynamic Programming
-
-Important Patterns and Techniques in 2-D DP Questions
-
-Most Important Questions with Solutions
-
-Complexity Analysis
-
-Tips and Techniques to solve 2-D DP Questions Fast .
+[Tips and Techniques to solve 1-D Dynamic Programming Questions Fast.](https://medium.com/coders-mojo/day-7-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-1-d-dynamic-2560f585499?sk=0756b6bd798238d9a96fe3d161690350)
 
 -------------
 
-17. Greedy
+[16. 2- D Dynamic Programming](https://medium.com/coders-mojo/day-21-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-2-d-dynamic-53a4424b26?sk=c1d89aab4df1d4e71e06451bc079b110)
 
-What and Why Greedy(in 2–3 sentences)?
+[Important Patterns and Techniques in 2-D DP Questions](https://medium.com/coders-mojo/day-21-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-2-d-dynamic-53a4424b26?sk=c1d89aab4df1d4e71e06451bc079b110)
 
-Important Patterns and Techniques in Greedy Questions
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-21-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-2-d-dynamic-53a4424b26?sk=c1d89aab4df1d4e71e06451bc079b110)
 
-Most Important Questions with Solutions
+[Complexity Analysis](https://medium.com/coders-mojo/day-21-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-2-d-dynamic-53a4424b26?sk=c1d89aab4df1d4e71e06451bc079b110)
 
-Complexity Analysis
-
-Tips and Techniques to solve Greedy Questions Fast.
+[Tips and Techniques to solve 2-D DP Questions Fast .](https://medium.com/coders-mojo/day-21-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-2-d-dynamic-53a4424b26?sk=c1d89aab4df1d4e71e06451bc079b110)
 
 -------------
 
-18. Intervals
+[17. Greedy](https://medium.com/coders-mojo/day-6-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-greedy-technique-4b219a8488d0?sk=540b74ce2d13f345dd00cbbfb252815f)
 
-Important Patterns and Techniques in Intervals Questions
+[What and Why Greedy(in 2–3 sentences)?](https://medium.com/coders-mojo/day-6-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-greedy-technique-4b219a8488d0?sk=540b74ce2d13f345dd00cbbfb252815f)
 
-Most Important Questions with Solutions
+[Important Patterns and Techniques in Greedy Questions](https://medium.com/coders-mojo/day-6-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-greedy-technique-4b219a8488d0?sk=540b74ce2d13f345dd00cbbfb252815f)
 
-Complexity Analysis
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-6-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-greedy-technique-4b219a8488d0?sk=540b74ce2d13f345dd00cbbfb252815f)
 
-Tips and Techniques to solve Intervals Questions Fast.
+[Complexity Analysis](https://medium.com/coders-mojo/day-6-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-greedy-technique-4b219a8488d0?sk=540b74ce2d13f345dd00cbbfb252815f)
+
+[Tips and Techniques to solve Greedy Questions Fast.](https://medium.com/coders-mojo/day-6-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-greedy-technique-4b219a8488d0?sk=540b74ce2d13f345dd00cbbfb252815f)
+
+-------------
+
+[18. Intervals](https://medium.com/coders-mojo/day-22-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-intervals-a6cc14351d27?sk=727b050f49ee242d359352b02ac5d066)
+
+[Important Patterns and Techniques in Intervals Questions](https://medium.com/coders-mojo/day-22-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-intervals-a6cc14351d27?sk=727b050f49ee242d359352b02ac5d066)
+
+[Most Important Questions with Solutions](https://medium.com/coders-mojo/day-22-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-intervals-a6cc14351d27?sk=727b050f49ee242d359352b02ac5d066)
+
+[Complexity Analysis](https://medium.com/coders-mojo/day-22-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-intervals-a6cc14351d27?sk=727b050f49ee242d359352b02ac5d066)
+
+[Tips and Techniques to solve Intervals Questions Fast.](https://medium.com/coders-mojo/day-22-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-intervals-a6cc14351d27?sk=727b050f49ee242d359352b02ac5d066)
 
 -------------
 
