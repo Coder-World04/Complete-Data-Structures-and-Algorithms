@@ -8,6 +8,8 @@ Start here : [Day 1 of 30 days of Data Structures and Algorithms and System Desi
 
 [Day 2 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-2-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-68bf016bb615?sk=a6d770b5472a96c224c4f9257d839e16)
 
+-------------
+
 [Complexity Analysis ](https://medium.com/coders-mojo/day-4-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-83d4c90d9115?sk=8ab3d284915f8f28534651d1c9cf41e5)
 
 [What is complexity Analysis?](https://medium.com/coders-mojo/day-4-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-83d4c90d9115?sk=8ab3d284915f8f28534651d1c9cf41e5)
@@ -19,6 +21,8 @@ Start here : [Day 1 of 30 days of Data Structures and Algorithms and System Desi
 [Big — O notation and Examples](https://medium.com/coders-mojo/day-4-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-83d4c90d9115?sk=8ab3d284915f8f28534651d1c9cf41e5)
 
 [Tips and Techniques- How to determine and differentiate Complexities](https://medium.com/coders-mojo/day-4-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-83d4c90d9115?sk=8ab3d284915f8f28534651d1c9cf41e5)
+
+-------------
 
 
 1.[Arrays](https://medium.com/coders-mojo/day-11-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-arrays-bf7045a3c98b?sk=42ad70a29aa9f7891794d7feaa63bea9)
