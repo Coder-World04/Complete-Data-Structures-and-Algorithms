@@ -1,4 +1,4 @@
-# Complete-Data-Structures-and-Algorithms Series
+# Complete-Data-Structures-and-Algorithms and System Design Series
 This repository contains everything you need to become proficient in Data Structures and Algorithms
 
 ![0_7AHKqhGVaDWZJ1L_](https://user-images.githubusercontent.com/104568275/186131673-9ffff84c-21b4-421b-b956-643aa0fa7dbd.png)
