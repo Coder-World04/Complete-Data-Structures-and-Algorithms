@@ -8,17 +8,17 @@ Start here : [Day 1 of 30 days of Data Structures and Algorithms and System Desi
 
 [Day 2 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-2-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-68bf016bb615?sk=a6d770b5472a96c224c4f9257d839e16)
 
-1.Arrays
+1.[Arrays](https://medium.com/coders-mojo/day-11-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-arrays-bf7045a3c98b?sk=42ad70a29aa9f7891794d7feaa63bea9)
 
-What and Why Array (in two sentences)?
+[What and Why Array (in two sentences)?](https://medium.com/coders-mojo/day-11-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-arrays-bf7045a3c98b?sk=42ad70a29aa9f7891794d7feaa63bea9)
 
-Important Patterns and Techniques in Array Questions
+[Important Patterns and Techniques in Array Questions](https://medium.com/coders-mojo/day-11-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-arrays-bf7045a3c98b?sk=42ad70a29aa9f7891794d7feaa63bea9)
 
-Only Most Important Questions with Solutions
+[Only Most Important Questions with Solutions](https://medium.com/coders-mojo/day-11-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-arrays-bf7045a3c98b?sk=42ad70a29aa9f7891794d7feaa63bea9)
 
-Complexity Analysis
+[Complexity Analysis](https://medium.com/coders-mojo/day-11-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-arrays-bf7045a3c98b?sk=42ad70a29aa9f7891794d7feaa63bea9)
 
-Tips and Techniques to solve Array Questions Fast.
+[Tips and Techniques to solve Array Questions Fast.](https://medium.com/coders-mojo/day-11-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-arrays-bf7045a3c98b?sk=42ad70a29aa9f7891794d7feaa63bea9)
 
 --------------
 
