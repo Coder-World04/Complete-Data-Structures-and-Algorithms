@@ -3,6 +3,7 @@ This repository contains everything you need to become proficient in Data Struct
 
 ![0_7AHKqhGVaDWZJ1L_](https://user-images.githubusercontent.com/104568275/186131673-9ffff84c-21b4-421b-b956-643aa0fa7dbd.png)
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
 
 Start here : [Day 1 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
 
